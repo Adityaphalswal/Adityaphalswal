@@ -12,6 +12,6 @@
 </section>
 <br/>
 
-</section align="center">
+<section align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphalswal)](https://adityaphalswal.github.io/)
 </section>
