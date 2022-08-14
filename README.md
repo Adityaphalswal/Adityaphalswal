@@ -1,14 +1,16 @@
 [![Aditya's Github Banner](./assests/GithubHeader.png)](https://adityaphalswal.github.io/)
 
----
-
 <h3 align="center">
 Hi there, I'm <a href="https://adityaphalswal.github.io/" target="_blank" rel="noreferrer">Aditya Phalswal</a> 👋
 </h3>
 
+<h2 align="center">
+I'm a Front-End Web Developer 💻, and Designer 🎨!
+</h2> 
+
 ---
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [![website](./assests/website.svg)](https://adityaphalswal.github.io/)&nbsp;&nbsp;
 [![LinkedIn](./assests/linkedin.svg)](https://in.linkedin.com/in/aditya-phalswal-439547196)&nbsp;&nbsp;
@@ -18,7 +20,7 @@ Hi there, I'm <a href="https://adityaphalswal.github.io/" target="_blank" rel="n
 
 ---
 
-### Languages and Tools:
+### 💼 Languages and Tools:
 
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt ="HTML5">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3">&nbsp;&nbsp;
@@ -40,7 +42,7 @@ Hi there, I'm <a href="https://adityaphalswal.github.io/" target="_blank" rel="n
 
 ---
 
-:zap: Github Stats
+📈 Github Stats
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaphalswal&show_icons=true&theme=radical)](https://adityaphalswal.github.io/)
 
