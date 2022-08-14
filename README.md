@@ -21,8 +21,7 @@
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="sass">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React">&nbsp;&nbsp;
-<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png
-" alt="nodejs">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs">&nbsp;&nbsp;
 
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://www.ictdemy.com/images/5728/mdb.png" alt="mongodb">&nbsp;&nbsp;
