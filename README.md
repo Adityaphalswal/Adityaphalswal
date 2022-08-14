@@ -1,4 +1,7 @@
 [![Aditya's Github Banner](./assests/GithubHeader.png)](https://adityaphalswal.github.io/)
+
+---
+
 <BR/>
 ### Connect with me:
 [![website](./assests/website.svg)](https://adityaphalswal.github.io/)&nbsp;&nbsp;
@@ -8,7 +11,7 @@
 [![Resume](./assests/resume.png)](https://adityaphalswal.github.io/img/AdityaPhalswal_Resume.pdf)
 
 ### Languages and Tools:
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+<img height ="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
 
 <br />
 <br />
