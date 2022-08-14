@@ -25,7 +25,6 @@ I love to solve problems and create beautiful things. I'm a self-taught develope
 ---
 
 ## 🔭 I'm currently working on
-
 - MY OLD PROJECTS
 - MY PORTFOLIO WEBSITE
 - BANK APPLICATION (JAVASCRIPT)
