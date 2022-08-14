@@ -2,7 +2,9 @@
 
 ---
 
-# Hi there, I'm AdityaPhalswal[https://adityaphalswal.github.io/] 👋 
+<h3 align="center">
+Hi there, I'm <a href="https://adityaphalswal.github.io/" target="_blank" rel="noreferrer">Aditya Phalswal</a> 👋
+</h3>
 
 ---
 
