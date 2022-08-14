@@ -2,6 +2,10 @@
 
 ---
 
+# Hi there, I'm AdityaPhalswal[https://adityaphalswal.github.io/] 👋 
+
+---
+
 ### Connect with me:
 
 [![website](./assests/website.svg)](https://adityaphalswal.github.io/)&nbsp;&nbsp;
@@ -27,8 +31,10 @@
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="vs code">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="XD">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="github">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/37/37759.png" alt="terminal">&nbsp;&nbsp;
+
 
 ---
 
