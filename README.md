@@ -7,5 +7,6 @@
 [![Gmail](./assests/gmail.svg)](mailto:adityaph135@gmail.com)&nbsp;&nbsp;
 [![Resume](./assests/resume.png)](https://adityaphalswal.github.io/img/AdityaPhalswal_Resume.pdf)
 
-
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaphalswal)](https://github.com/adityaphalswal/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphalswal)](https://adityaphalswal.github.io/)
