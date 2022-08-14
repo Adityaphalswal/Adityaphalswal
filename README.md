@@ -18,25 +18,25 @@ I'm a Front-End Web Developer 💻, and Designer 🎨!
 [![Gmail](./assests/gmail.svg)](mailto:adityaph135@gmail.com)&nbsp;&nbsp;
 [![Resume](./assests/resume.png)](https://adityaphalswal.github.io/img/AdityaPhalswal_Resume.pdf)
 
-</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ---
 
 ## 🔭 I'm currently working on
 
-- My Old Projects
-- My Portfolio Website
+- MY OLD PROJECTS
+- MY PORTFOLIO WEBSITE
 - BANK APPLICATION (JAVASCRIPT)
 - WEBSITES (HTML, CSS, JAVASCRIPT)
 
 ## 🌱 I'm currently learning
 
 - 💻 MERN STACK (MONGODB, REACT, NODEJS)
-- Data Structures and Algorithms (C++)
-- JAVASCRIPT Libraries and frameworks
+- DATA STRUCTURES AND ALGORITHMS (C++)
+- JAVASCRIPT LIBRARIES AND FRAMEWORKS
+- ADOBE XD (DESIGN)
 
----
+--- 
 
 
 ### 💼 Languages and Tools:
