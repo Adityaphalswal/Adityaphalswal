@@ -14,7 +14,7 @@
 [![Linkedin Profile](./img/linkedin-light.svg)](https://linkedin.com/in/adityaphalswal#gh-light-mode-only)
 
 &nbsp;&nbsp;
-[![Instagram profile](./assests/instagram.svg)](https://instagram.com/adityaphalswal#gh-light-mode-only)
+[![Instagram profile](./assests/instagram.svg)](https://instagram.com/adityaphalswal)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphalswal)](https://adityaphalswal.github.io/)
