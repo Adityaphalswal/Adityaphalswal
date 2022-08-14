@@ -22,10 +22,8 @@
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs">&nbsp;&nbsp;
-
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://www.ictdemy.com/images/5728/mdb.png" alt="mongodb">&nbsp;&nbsp;
-
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python">&nbsp;&nbsp;
 <img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="vs code">&nbsp;&nbsp;
