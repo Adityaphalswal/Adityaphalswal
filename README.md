@@ -10,6 +10,8 @@ I'm a Front-End Web Developer 💻, and Designer 🎨!
 
 ---
 
+I love to solve problems and create beautiful things. I'm a self-taught developer, and I'm always looking to learn new things.
+
 ### 🤝 Connect with me:
 
 [![website](./assests/Aditya.jpg)](https://adityaphalswal.github.io/)&nbsp;&nbsp;
@@ -31,7 +33,7 @@ I'm a Front-End Web Developer 💻, and Designer 🎨!
 
 ## 🌱 I'm currently learning
 
-- 💻 MERN STACK (MONGODB, REACT, NODEJS)
+- MERN STACK (MONGODB, REACT, NODEJS)
 - DATA STRUCTURES AND ALGORITHMS (C++)
 - JAVASCRIPT LIBRARIES AND FRAMEWORKS
 - ADOBE XD (DESIGN)
