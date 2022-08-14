@@ -11,10 +11,19 @@
 [![Resume](./assests/resume.png)](https://adityaphalswal.github.io/img/AdityaPhalswal_Resume.pdf)
 
 ### Languages and Tools:
-<img height ="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
-
-<br />
-<br />
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">&nbsp;&nbsp;
+<img height ="38px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
 
 ---
 
