@@ -10,7 +10,7 @@ I'm a Front-End Web Developer 💻, and Designer 🎨!
 
 ---
 
-I love to solve problems and create beautiful things. I'm a self-taught developer, and I'm always looking to learn new things.
+I love to solve problems and create beautiful things. I'm a self-taught developer, and I'm always looking to learn new things. I love to look at code and see how it works, and I love to see how it can be improved. I'm a huge fan of the open-source community, and I'm always looking to contribute to open-source projects.
 
 ### 🤝 Connect with me:
 
