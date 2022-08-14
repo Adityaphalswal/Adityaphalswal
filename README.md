@@ -68,3 +68,5 @@ I love to solve problems and create beautiful things. I'm a self-taught develope
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphalswal&show_icons=true&theme=radical)](https://adityaphalswal.github.io/)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=adityaphalswal.visitor-badge&left_color=red&right_color=green) 
