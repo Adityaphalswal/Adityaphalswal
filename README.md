@@ -9,7 +9,9 @@
 
 <section align="center">
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaphalswal)](https://github.com/adityaphalswal/github-readme-stats)
+</section>
 <br/>
 
+</section align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphalswal)](https://adityaphalswal.github.io/)
 </section>
