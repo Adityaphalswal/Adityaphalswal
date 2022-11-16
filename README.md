@@ -1,7 +1,7 @@
 [![Aditya's Github Banner](./assests/GithubHeader.png)](https://adityaphalswal.github.io/)
 
 <h3 align="center">
-Hi there, I'm <a href="https://adityaphalswal.github.io/" target="_blank" rel="noreferrer">Aditya Phalswal</a> 👋
+Hi there, I'm <a href="https://adityaphalswal.me" target="_blank" rel="noreferrer">Aditya Phalswal</a> 👋
 </h3>
 
 <h2 align="center">
@@ -29,6 +29,7 @@ I love to solve problems and create beautiful things. I'm a self-taught develope
 - MY PORTFOLIO WEBSITE
 - BANK APPLICATION (JAVASCRIPT)
 - WEBSITES (HTML, CSS, JAVASCRIPT)
+- SMART GENSET (IIOT PROJECT)
 
 ## 🌱 I'm currently learning
 
@@ -36,6 +37,9 @@ I love to solve problems and create beautiful things. I'm a self-taught develope
 - DATA STRUCTURES AND ALGORITHMS (C++)
 - JAVASCRIPT LIBRARIES AND FRAMEWORKS
 - ADOBE XD (DESIGN)
+- PYTHON
+- DBMS
+- IIOT(INTERNET OF THINGS)
 
 --- 
 
